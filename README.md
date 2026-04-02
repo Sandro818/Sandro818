@@ -28,7 +28,6 @@ Passionné par la cybersécurité, l’automatisation et le design de documents 
 - Exercices en cryptographie (César, XOR, entropie) en Python  
 - Présentation académique sur l’architecture des datacenters  
 - Création d’un site vitrine en HTML/CSS
--   
 
 ---
 
