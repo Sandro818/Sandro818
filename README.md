@@ -1,16 +1,53 @@
-## Hi there 👋
+# Lens Sandro PETIOTE
 
-<!--
-**Sandro818/Sandro818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/Sandro.jpeg" alt="Photo de profil" width="150" align="right"/>
 
-Here are some ideas to get you started:
+## À propos
+Je suis **Lens**, étudiant en 3ᵉ année de **Computer Science** à l’Institut Universitaire des Sciences (IUS).  
+Passionné par la cybersécurité, l’automatisation et le design de documents professionnels, j’aime transformer des idées en solutions concrètes et visuelles.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Compétences Techniques
+- **Langages** : Python, Shell, Batch, HTML, CSS, JavaScript (bases)  
+- **Systèmes** : Linux & Windows (administration, scripts)  
+- **Réseaux** : SSH, VirtualBox, dépannage complexe  
+- **Outils bureautiques** : Word, Excel, Google Sheets, LibreOffice Calc  
+- **Autres** : Automatisation, troubleshooting méthodique  
+
+---
+
+## Formation
+- Licence en Informatique (en cours) – IUS  
+- Certificat en Marketing Digital (OIF)  
+- Formation en Économie haïtienne  
+
+---
+
+## Projets
+- Exercices en cryptographie (César, XOR, entropie) en Python  
+- Présentation académique sur l’architecture des datacenters  
+- Création d’un site vitrine en HTML/CSS
+-   
+
+---
+
+## Langues
+- Français (courant)  
+- Créole haïtien (courant)  
+- Anglais (intermédiaire)  
+
+---
+
+## Soft Skills
+- Communication claire et professionnelle  
+- Travail en équipe et adaptabilité  
+- Confidentialité et rigueur  
+- Résilience et persévérance  
+
+---
+
+## Contact
+- Localisation : Jacmel, Haïti  
+- Email : petiotelens@gmail.com  
+- Telephone : +509 44197186 
